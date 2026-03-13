@@ -13,7 +13,7 @@ export default async function handler(req, res) {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'x-api-key': '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',
+      'x-api-key': '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',
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify(body),
